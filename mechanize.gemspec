@@ -7,8 +7,8 @@ Gem::Specification.new do |gem|
   gem.version       = '2.7.4.beta1'
   gem.authors       = [""]
   gem.email         = [""]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Only adding gemspec}
+  gem.summary       = %q{Only adding gemspec}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
